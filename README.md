@@ -1,6 +1,6 @@
 <h1 align="center">Oi oi, Criatura! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Yuri!</h1>
 <h3 align="center">A Student...</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
+
 
 - 🔭 I'm not currently working on ... ih, i forgot -
 
@@ -15,9 +15,11 @@
 - ⚡ Fun fact: I am a distant relative of the Red Dragon Emperor. But this we secret, ok?
 
 <p align="left">
+ 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+  
 <img src="https://github-readme-stats.vercel.app/api?username=player35oficial&show_icons=true" alt="maykbrito"/> 
 </p>
 
