@@ -1,4 +1,4 @@
-<h1 align="center">Oi oi, Criatura! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Yuri!</h1>
+<h1 align="center">Olá Dev! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Yuri!</h1>
 <h3 align="center">A Student...</h3>
 
 
