@@ -21,7 +21,7 @@
 
 <div>
  <p align="center">
-  <a href="https://twitter.com/Player35Oficial" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Player35" height="24" width="auto" /></a>
+  <a href="[https://twitter.com/Player35Ofi_dev]" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Player35" height="24" width="auto" /></a>
   <a href="https://www.linkedin.com/in/yuri-guilherme-45a341201/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Player35" height="24" width="auto" /></a>
  </p>
 </div> 
