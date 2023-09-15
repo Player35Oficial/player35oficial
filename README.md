@@ -53,11 +53,8 @@
 ###
 
 <br clear="both">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="snake.svg" />
-  <!-- <img alt="github-snake" src="github-snake.svg" /> -->
+
   <img src="https://raw.githubusercontent.com/Player35Oficial/Player35Oficial/output/snake.svg" alt="Snake animation" />
-</picture>
 
 ###
 
