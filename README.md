@@ -1,4 +1,4 @@
-<h1 align="center">Hi, Dev!</h1>
+<h1 align="center">Hi, Dev! // Olá, Dev!</h1>
 
 ###
 
@@ -52,7 +52,14 @@
 
 <br clear="both">
 
-  <img src="https://raw.githubusercontent.com/Player35Oficial/Player35Oficial/output/snake.svg" alt="Snake animation" />
+  <!-- <img src="https://raw.githubusercontent.com/Player35Oficial/Player35Oficial/output/snake.svg" alt="Snake animation" /> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Player35Oficial/Player35Oficial/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Player35Oficial/Player35Oficial/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Player35Oficial/Player35Oficial/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 
 ###
 
